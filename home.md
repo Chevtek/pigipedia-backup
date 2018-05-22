@@ -11,5 +11,4 @@ This wiki is here for mini-pig parents of all ages to come and learn from experi
 ![Button Join Facebook](/uploads/button-join-facebook.jpg "Button Join Facebook")
 
 
-
 </div>
