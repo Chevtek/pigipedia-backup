@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Pigipedia -->
+<!-- SUBTITLE: The official wiki for mini pig parents and enthusiasts! -->
 
 # Welcome to Pigipedia!
 
