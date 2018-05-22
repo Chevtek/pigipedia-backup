@@ -1,4 +1,4 @@
-<!-- TITLE: Pigipedia -->
+<!-- TITLE: Welecome To Pigipedia -->
 <!-- SUBTITLE: The official wiki for mini-pig parents and enthusiasts. -->
 
 <div style="position: relative; min-height: 1500px; ">
