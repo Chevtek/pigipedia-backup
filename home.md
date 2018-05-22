@@ -9,7 +9,7 @@
 This wiki is here for mini-pig parents of all ages to come and learn from experienced pig owners.
 We're still working on adding more content but we do already have a few useful articles for you to browse through.
 
-[View All Wiki Articles](http://pigipedia.org/all)
+[View All Current Wiki Articles](http://pigipedia.org/all)
 
 If you'd like to contribute something yourself then feel free to head on over to our Facebook group and get in touch with an admin.
 
