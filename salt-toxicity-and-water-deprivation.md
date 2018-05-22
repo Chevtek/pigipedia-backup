@@ -1,5 +1,5 @@
 <!-- TITLE: Salt Toxicity And Water Deprivation -->
-<!-- SUBTITLE: A quick summary of Salt Toxicity And Water Deprivation -->
+<!-- SUBTITLE: Salt poisining is very dangerous for your pig and constant access to water is extremely important. -->
 
 ### Lets first break down salt and sodium.
 
