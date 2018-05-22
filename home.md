@@ -3,4 +3,4 @@
 
 Finally, a place to compile all the knowledge we've gained as pig parents over the years. Welcome fellow pig enthusiasts!
 
-![Free Pig Wallpapers 8](/uploads/free-pig-wallpapers-8.jpg "Free Pig Wallpapers 8")
+<div style="position: absolute; background-image: url(/uploads/free-pig-wallpapers-8.jpg); background-size: cover;"></div>
