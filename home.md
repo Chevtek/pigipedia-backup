@@ -8,7 +8,7 @@
 
 This wiki is here for mini-pig parents of all ages to come and learn from experienced pig owners.
 
-If you'd like to join our Facebook group
+![Button Join Facebook](/uploads/button-join-facebook.jpg "Button Join Facebook")
 
 
 
