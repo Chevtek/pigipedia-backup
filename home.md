@@ -6,6 +6,10 @@
 
 > Finally, a place to compile all the knowledge we've gained as pig parents over the years!
 
+This wiki is here for mini-pig parents of all ages to come and learn from experienced pig owners.
+
+If you'd like to join our Facebook group
+
 
 
 </div>
