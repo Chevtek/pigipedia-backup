@@ -22,4 +22,4 @@ They can aspirate and create even more potentially fatal issues for your pig. Sa
 * Lethargic
 * Sometimes a pig will place their snout against the wall as if holding themselves up, then begin to sway.
  
-A pig typically will not have a fever with salt toxicity. If your pig is running a fever may not be salt toxicity and could be some other illness or disease.
+A pig typically will not have a fever with salt toxicity. If your pig is running a fever then it may not be salt toxicity and could be some other illness or disease.
