@@ -1,8 +1,6 @@
 <!-- TITLE: Salt Toxicity And Water Deprivation -->
 <!-- SUBTITLE: A quick summary of Salt Toxicity And Water Deprivation -->
 
-# Salt Toxicity And Water Deprivation
-
 ### Lets first break down salt and sodium.
 
 When looking at salt levels you also need to look at sodium although they are not the same all salt has sodium but not all sodium is salt. Salt is 40 percent sodium and 60 percent chloride. You or your pig can not live without the mineral sodium. It is the amount of salt/sodium and the availability of water is what creates the deadly issues. Avoiding foods high in salt/sodium is a good idea but what is possibly more important is the availability for your pig to get fresh water all the time. Water deprivation causes more salt toxicity than foods high in salt/sodium. This is very important and needs to be tended to all the time, make sure fresh water is always available for your pig. Pig will many times forgo drinking water if it's old, contaminated with debris, hot from the sun, biofilm covered, green growth on bottom of water container. Make sure fresh water is plentiful all the time. This is where salt poisoning arises from most of the time. A pig gets into some dog food (typically very high in sodium) and fresh water isn’t available then things start to go very wrong after 24 hours of water deprivation symptoms can set in.
