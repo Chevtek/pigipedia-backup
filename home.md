@@ -15,7 +15,7 @@ If you'd like to contribute something yourself then feel free to head on over to
 
 [![](/uploads/button-join-facebook.jpg)](fb://groups/468233740261513)
 
-<a id="fbGroupButton" href="#"><img src="/uploads/button-join-facebook.jpg" alt="Join Our Facebook Group" /></a>
+<a id="fbGroupButton" href="#" class="external-link"><img src="/uploads/button-join-facebook.jpg" alt="Join Our Facebook Group" /></a>
 <script>
 	let fbBtn = document.getElementById('fbGroupButton');
 	fbBtn.setAttribute('href', 'fb://groups/468233740261513');
