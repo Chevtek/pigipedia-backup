@@ -13,8 +13,6 @@ We're still working on adding more content but we do already have a few useful a
 
 If you'd like to contribute something yourself then feel free to head on over to our Facebook group and get in touch with an admin.
 
-[![](/uploads/button-join-facebook.jpg)](fb://groups/468233740261513)
-
 <a id="fbGroupButton" href="#" class="external-link"><img src="/uploads/button-join-facebook.jpg" alt="Join Our Facebook Group" /></a>
 <script>
 	let fbBtn = document.getElementById('fbGroupButton');
