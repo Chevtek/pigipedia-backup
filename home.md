@@ -13,11 +13,6 @@ We're still working on adding more content but we do already have a few useful a
 
 If you'd like to contribute something yourself then feel free to head on over to our Facebook group and get in touch with an admin.
 
-<a id="fbGroupButton" href="#" target="_blank"><img src="/uploads/button-join-facebook.jpg" alt="Join Our Facebook Group" /></a>
-<script>
-	let fbBtn = document.getElementById('fbGroupButton');
-	fbBtn.setAttribute('href', 'fb://groups/468233740261513');
-</script>
 
 
 
