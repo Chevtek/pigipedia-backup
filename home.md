@@ -15,8 +15,17 @@ If you'd like to contribute something yourself then feel free to head on over to
 
 <a id="fbGroupButton" href="#" class="external-link"><img src="/uploads/button-join-facebook.jpg" alt="Join Our Facebook Group" /></a>
 <script>
+	let userAgent = navigator.userAgent || navigator.vendor || window.opera;
+	let fbLink = "https://www.facebook.com/groups/468233740261513";
+
+  if(/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+    fbLink = "fb://groups/468233740261513";
+  } else if(/android/i.test(userAgent)) {
+    window.location = "fb://groups/468233740261513";
+  } 
+	
 	let fbBtn = document.getElementById('fbGroupButton');
-	fbBtn.setAttribute('href', 'fb://groups/468233740261513');
+	fbBtn.setAttribute('href', fbLink);
 </script>
 
 
