@@ -13,7 +13,7 @@ We're still working on adding more content but we do already have a few useful a
 
 If you'd like to contribute something yourself then feel free to head on over to our Facebook group and get in touch with an admin.
 
-[![Button Join Facebook](/uploads/button-join-facebook.jpg "Button Join Facebook")](https://www.facebook.com/groups/468233740261513/)
+[![Button Join Facebook](/uploads/button-join-facebook.jpg "Button Join Facebook")](fb://groups/468233740261513/)
 
 
 
