@@ -1,7 +1,7 @@
 <!-- TITLE: Pig Tusks -->
 <!-- SUBTITLE: By Nikki Ford -->
 
-## I wanted to address a few common questions pig parents have in regards to their pig's tusks.
+**I wanted to address a few common questions pig parents have in regards to their pig's tusks.**
 
 ---
 
