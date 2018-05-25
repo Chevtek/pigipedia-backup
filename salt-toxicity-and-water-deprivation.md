@@ -1,5 +1,5 @@
 <!-- TITLE: Salt Toxicity And Water Deprivation -->
-<!-- SUBTITLE: By Scott R. Murdoch -->
+<!-- SUBTITLE: By Scott R. Murdock -->
 
 ### Lets first break down salt and sodium.
 
