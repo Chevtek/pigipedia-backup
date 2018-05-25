@@ -1,4 +1,5 @@
 <!-- TITLE: Porcine Terms And Definitions -->
+<!-- SUBTITLE: By Scott R. Murdoch -->
 
 * **A.C.V.** = Apple Cider Vinegar, A supplement recommended by many pig parents and pig farmers. ACV allows for higher absorption of nutrients and other health benefits.  
 * **An Adult Pig** = 9-12-month-old or older pig.
