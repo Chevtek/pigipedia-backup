@@ -6,7 +6,7 @@
 ---
 
 ### Do male and females both get tusks?
-Yes, they both grow tusks. Males are a little bit more prominent than females, as you can see on the diagram.
+Yes, they both grow tusks. Males are a little bit more prominent than females.<!--, as you can see on the diagram.-->
 
 ### When will my pig grow tusks?
 Every pig is different, but usually around 1 and half to 2 years is when you start noticing them.
