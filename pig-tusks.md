@@ -3,7 +3,7 @@
 
 I wanted to address a few common questions pig parents have in regards to their pig's tusks.
 
-### Do male and females both get tusks?
+## Do male and females both get tusks?
 Yes, they both grow tusks. Males are a little bit more prominent than females, as you can see on the diagram.
 
 ### When will my pig grow tusks?
