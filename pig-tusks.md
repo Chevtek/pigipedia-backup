@@ -12,7 +12,7 @@ Yes, they both grow tusks. Males are a little bit more prominent than females.<!
 Every pig is different, but usually around 1 and half to 2 years is when you start noticing them.
 
 ### Can I get my pig's tusks removed?
-It is HIGHLY discouraged. Why? Other tusked  animals, like elephants, have a separate cavity for their tusks, while pig's do not. Their tucks are actually part of their jaw, this makes removing them very risky, because there is a chance of the vet breaking their jaw during the surgery, and if that doesn't happen, the pig's jaw will be weaker afterwards, which has a high risk of breaks and infection. 
+It is HIGHLY discouraged. Why? Other tusked  animals, like elephants, have a separate cavity for their tusks, while pig's do not. Their tusks are actually part of their jaw, this makes removing them very risky, because there is a chance of the vet breaking their jaw during the surgery, and if that doesn't happen, the pig's jaw will be weaker afterwards, which has a high risk of breaks and infection. 
 
 ### What is a safer alternative to tusk removal?
 Trimming them down. You can get their tusks trimmed at the same time you trim their hooves.
