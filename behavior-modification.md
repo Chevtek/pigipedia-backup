@@ -10,17 +10,3 @@ Pigs want to please you after they bond with you. Pigs are very obstinate and st
 They are are social as we are. So just think if your spouse comes home and doesn't really give you the time of day how does or how would you feel, most humans act out in many different ways to get a reaction from their significant other. Pigs are no different other than they don't have them same resources a human does so they only can do what they know how to do, hence Pee on the floor, poop in the house, flip your chairs, flip their litter box, it's them saying in no uncertain terms"here I am can you see me, I love you" you get the idea. My two girls have gone though most of the same behaviors you guys go through and we have had great success using these methods. We don't have a lock on cabinets, we don't have to move any furniture bc they might ruin it. Not saying they are perfect in any way,they will still make mistakes from time to time but you can see in their eyes when this occurs and know they just slipped. Shun the pig will remind them of this.
 
 Not everyone agrees with me on this subject but I've read tons and tons about this and have actually seen it in action in my home. Profound knowledge is the best proof.
-
-# Move The Pig (MTP)
-
-Since pigs are a herd animal, they have a hierarchy within their social structure. They will fight and "move" each other to establish dominance over other pigs.
-
-Pigs think of you as part of their herd, and will try and establish dominance over you too, which will lead them to have some aggressive behavior towards you. You need to establish your dominance over them, in the way the understand, by "moving" them, like another pig would. For instance, my oldest challenged me the other day by charging me and trying to bite my leg. She weighs the same as me, but since I am so far above her, it's easy to get leverage over her. I grab her by the shoulders(on top of her mohawk area) and push her until she concedes; sometimes I even have to push her across the room. But, then she knows I am the "top hog" of the herd, and she will back off.
-
-## SHUN THE PIG
-
-I do this with my girls but seems to only work after you've establish dominance in the herd
-
-When my pig displays a behavior like a nonbiting swipe I will look at her maybe stomp my foot, clap, and sternly say no then I will proceed to hide my face from her so she cannot make eye contact, will not talk to her, will not pet her at all. completely Shun the pig. If sitting on the couch I'll lift my legs and turn my back on her. You need to make it very apparent that you are ignoring your pig. 
-My pigs will generally grovel, rubbed her face on my leg if given the chance until I give them the attention again. I will actually say to them are you apologizing are you sorry I actually can see in their eyes they are this works really well after you've established dominance. 
-I typically do Shun the Pig for about 15-30 minutes.
