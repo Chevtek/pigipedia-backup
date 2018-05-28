@@ -48,6 +48,7 @@ You are looking for just fish oil no additional ingredients. Not looking for bur
 
 6. Iron.
     Iron is very important for piglets and many recommend an iron shot within the first two to three weeks, I recommend consulting with a porcine veterinarian if you are farrowing or talk with someone or multiple people who raise pigs for the best recommendation for your situation. Most pigs will get all the iron they need from rooting in the soil. An iron supplement is NOT necessary for an adult pig that gets plenty of time to root, now if you have a strictly indoor pig who never gets to root iron maybe something you need to supplement. Most good feeds have iron but the best place for your pig to get the mineral is absorption through the snout by rooting or in plants high in iron. No need to give an iron supplement pill, in fact in can do more harm than good if your pig gets too much iron. Some food high in iron are:
+		
 		* Spinach
 		* Most dark leafy greens
 		* Beans (lima beans, red kidney beans)
