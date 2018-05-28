@@ -19,15 +19,15 @@ Vitamins and supplements will vary from area to area as well as pig to pig. In t
 4. A.C.V. or Organic Apple Cider Vinegar with the mother. 
     This is a supplement that I am a big fan of using. The benefits are amazing for your pig. Although not a necessary supplement it is a great benefit to most pigs. Like coconut oil its benefit have not been fully substantiated. I will say I’ve witness the benefits and do recommend adding to you pigs diet after about 8 weeks of age at the rate of 1 to 1.25 TSP per 25 pounds of pig per day in your pig’s meal. Most pigs love the taste, so it typically will be welcomed by your pig in his or her meals. The benefits although many have not been fully proven may include:
 		
-		* New Zealand trials show that the daily supplement of ACV to sows prior to farrowing and during weaning resulted in the elimination of mastitis in sows, major reduction of scouring in piglets, and some increase in litter size. 
-		* Relief in constipation
-		* Supports healthy urinary tract 
-		* Supports immune system
-		* Supports natural body functions
-		* Promotes healthy digestion
-		* Promotes body PH balance 
-		* Helps with dry skin issues
-		* Supports healthy gut bacteria 
+	* New Zealand trials show that the daily supplement of ACV to sows prior to farrowing and during weaning resulted in the elimination of mastitis in sows, major reduction of scouring in piglets, and some increase in litter size. 
+	* Relief in constipation
+	* Supports healthy urinary tract 
+	* Supports immune system
+	* Supports natural body functions
+	* Promotes healthy digestion
+	* Promotes body PH balance 
+	* Helps with dry skin issues
+	* Supports healthy gut bacteria 
 		* High in potassium
 		* Supports increase in absorption of essential nutrients in feed 
 		* Small to medium reduction in feed due to increase in nutrient absorption
