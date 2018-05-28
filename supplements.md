@@ -28,16 +28,16 @@ Vitamins and supplements will vary from area to area as well as pig to pig. In t
 	* Promotes body PH balance 
 	* Helps with dry skin issues
 	* Supports healthy gut bacteria 
-		* High in potassium
-		* Supports increase in absorption of essential nutrients in feed 
-		* Small to medium reduction in feed due to increase in nutrient absorption
-		* Reduction or elimination in most parasites
-		* Helps with scours or loose stool
-		* Help stabilize blood sugar levels 
-		* Helps with coat quality due to better nutrient absorption
-		* Help prevent the growth of harmful bacteria and viruses in the digestive tract
-		* (External use) soothes sunburn and insect bites 
-		* (External use) Insect repellant
+	* High in potassium
+	* Supports increase in absorption of essential nutrients in feed 
+	* Small to medium reduction in feed due to increase in nutrient absorption
+	* Reduction or elimination in most parasites
+	* Helps with scours or loose stool
+	* Help stabilize blood sugar levels 
+	* Helps with coat quality due to better nutrient absorption
+	* Help prevent the growth of harmful bacteria and viruses in the digestive tract
+	* (External use) soothes sunburn and insect bites 
+	* (External use) Insect repellant
 
     When using A.C.V. you will want to make sure you are getting the real stuff. Be careful in the store you can find apple cider “flavored” vinegar, not going to help you as much, you want organic with the mother, apple cider vinegar. The mother is the good parts of the apple left behind, lets you know it’s unfiltered. Good for you too, always check with your doctor before use. Don’t think using more will help stick with the dosage unless told different by a medical professional. 
 Too much A.C.V. may result in tooth enamel damage, upset stomach, potassium loss, burn to the throat if used in excess. Feel free to search out apple cider vinegar benefits, you will be amazed.
