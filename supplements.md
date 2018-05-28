@@ -49,18 +49,18 @@ You are looking for just fish oil no additional ingredients. Not looking for bur
 6. Iron.
     Iron is very important for piglets and many recommend an iron shot within the first two to three weeks, I recommend consulting with a porcine veterinarian if you are farrowing or talk with someone or multiple people who raise pigs for the best recommendation for your situation. Most pigs will get all the iron they need from rooting in the soil. An iron supplement is NOT necessary for an adult pig that gets plenty of time to root, now if you have a strictly indoor pig who never gets to root iron maybe something you need to supplement. Most good feeds have iron but the best place for your pig to get the mineral is absorption through the snout by rooting or in plants high in iron. No need to give an iron supplement pill, in fact in can do more harm than good if your pig gets too much iron. Some food high in iron are:
 		
-		* Spinach
-		* Most dark leafy greens
-		* Beans (lima beans, red kidney beans)
-		* Chickpeas
-		* Split peas
-		* Some breakfast cereals enriched with iron (watch sugar and salt/sodium content)
-		* Wheat germ
-		* Rice
-		* Sunflower seeds
-		* Nuts like peanuts, pecans, walnuts, pistachios, almonds, and cashews.
+	* Spinach
+	* Most dark leafy greens
+	* Beans (lima beans, red kidney beans)
+	* Chickpeas
+	* Split peas
+	* Some breakfast cereals enriched with iron (watch sugar and salt/sodium content)
+	* Wheat germ
+	* Rice
+	* Sunflower seeds
+	* Nuts like peanuts, pecans, walnuts, pistachios, almonds, and cashews.
 		 
-		(All beans and legumes and some nuts should be cooked or may be toxic or worse), with no salt/sodium added not raw from the plant, see toxic foods later in this book on what foods to avoid.
+	(All beans and legumes and some nuts should be cooked or may be toxic or worse), with no salt/sodium added not raw from the plant, see toxic foods later in this book on what foods to avoid.
 
 7. Biotin.
     Biotin is a B vitamin and a coenzyme that helps with hair, skin and hoof growth. Biotin absorption can be challenging for pigs so if your pigs hooves are brittle and/or cracking or your pigs hair is brittle and breaks off biotin may help with healthier hair, skin and hooves new growth. 1000 mcg’s per day is all that is required and give in feed in pill form. Stay away from gummies as gummies are typically pork products that are used to create gelatin.
