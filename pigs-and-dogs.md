@@ -15,4 +15,6 @@ A few and I would even venture to say most dogs will try and get along with the 
 # Cats and pigs are not an issue typically.
 A cat will typically stick your pig with a claw and the pig will take a wide birth around your cat from that point on, there are other cats that will cuddle and sleep with your pig which isn’t a problem in most households. Try not to allow your pig to eat cat fesses. Many pigs will do this, and cats ingest all kinds of things some may not sit well not to mention cat feces is usually procured from a litter box and ingested cat litter is dangerous for your pig. It can cause veterinary type visit for blockage.
 
+---
+
 > Note: This is an excerpt from the future Pigs & Love (A guide to parenting a mini pig). Not to be shared without permission of author.
