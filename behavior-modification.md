@@ -1,12 +1,24 @@
 <!-- TITLE: Behavior Modification -->
-<!-- SUBTITLE: By Scott R. Murdock -->
+<!-- SUBTITLE: By Scott R. Murdock and Nikki Ford -->
 
 # Pigs are NOT a dog or a cat.
 Dogs and cats are both predators and have very different thought processes. Pigs are prey and are basically wary of everything until they gain trust. Pigs also don't respond to negative reinforcement which isn't to be confused with stern voice inflections. Negative reinforcement is spanking your pig, bopping them on the snout. Spraying them with a water bottle. In fact I'm not a fan of doing this to your dog either but they do response to it 100 times better than a pig ever will. 
 Pigs want to please you after they bond with you. Pigs are very obstinate and stubborn, I believe that's why us humans that have them as pets fall in love with them so much bc humans love what we can't have and pigs give us plenty of that. When you want to change a aggression behavior I do use MTP ( move the pig) but only for aggression, a non biting swipe I don't consider aggression, typically this happens when we surprise a pig. They can't see very well and if you touch them and they didn't realize it's you, it's in their inherent reaction to being a prey animal to respond. So for these types of corrections I use what I've coined as Shun the Pig. I will post at the bottom of this post what the two methods are incase you haven't ever read my posts on the subject. Now for positive reinforcement, pigs are gamblers at heart just like humans if they receive their favorite treat for doing something you want they start to pay attention to that thing in hopes of a treat, if you should hit your pig, spray your pig with water for doing an action you don't want all that's telling them is to make sure you're not around when they do this action so they will just wait till you're not around and do the same behavior because what you taught them is don't do that in front of me. On the other hand if they learn silence is what gets them a treat, or dinner, then guess what they do at dinner time, they be quiet they will always take the gamble to see if they'll get what they want. It's worth the gamble in their head to do this particular action. I've had GREAT success using these methods.
 
 # Keeping them busy and always having personal interaction with these animals is vital.
-
 They are are social as we are. So just think if your spouse comes home and doesn't really give you the time of day how does or how would you feel, most humans act out in many different ways to get a reaction from their significant other. Pigs are no different other than they don't have them same resources a human does so they only can do what they know how to do, hence Pee on the floor, poop in the house, flip your chairs, flip their litter box, it's them saying in no uncertain terms"here I am can you see me, I love you" you get the idea. My two girls have gone though most of the same behaviors you guys go through and we have had great success using these methods. We don't have a lock on cabinets, we don't have to move any furniture bc they might ruin it. Not saying they are perfect in any way,they will still make mistakes from time to time but you can see in their eyes when this occurs and know they just slipped. Shun the pig will remind them of this.
 
 Not everyone agrees with me on this subject but I've read tons and tons about this and have actually seen it in action in my home. Profound knowledge is the best proof.
+
+# Move The Pig (MTP)
+Since pigs are a herd animal, they have a hierarchy within their social structure. They will fight and "move" each other to establish dominance over other pigs.
+
+Pigs think of you as part of their herd, and will try and establish dominance over you too, which will lead them to have some aggressive behavior towards you. You need to establish your dominance over them, in the way the understand, by "moving" them, like another pig would. For instance, my oldest challenged me the other day by charging me and trying to bite my leg. She weighs the same as me, but since I am so far above her, it's easy to get leverage over her. I grab her by the shoulders(on top of her mohawk area) and push her until she concedes; sometimes I even have to push her across the room. But, then she knows I am the "top hog" of the herd, and she will back off.
+
+## SHUN THE PIG
+
+I do this with my girls but seems to only work after you've establish dominance in the herd
+
+When my pig displays a behavior like a nonbiting swipe I will look at her maybe stomp my foot, clap, and sternly say no then I will proceed to hide my face from her so she cannot make eye contact, will not talk to her, will not pet her at all. completely Shun the pig. If sitting on the couch I'll lift my legs and turn my back on her. You need to make it very apparent that you are ignoring your pig. 
+My pigs will generally grovel, rubbed her face on my leg if given the chance until I give them the attention again. I will actually say to them are you apologizing are you sorry I actually can see in their eyes they are this works really well after you've established dominance. 
+I typically do Shun the Pig for about 15-30 minutes.
