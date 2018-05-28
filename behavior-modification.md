@@ -15,8 +15,7 @@ Since pigs are a herd animal, they have a hierarchy within their social structur
 
 Pigs think of you as part of their herd, and will try and establish dominance over you too, which will lead them to have some aggressive behavior towards you. You need to establish your dominance over them, in the way the understand, by "moving" them, like another pig would. For instance, my oldest challenged me the other day by charging me and trying to bite my leg. She weighs the same as me, but since I am so far above her, it's easy to get leverage over her. I grab her by the shoulders(on top of her mohawk area) and push her until she concedes; sometimes I even have to push her across the room. But, then she knows I am the "top hog" of the herd, and she will back off.
 
-## SHUN THE PIG
-
+# SHUN THE PIG
 I do this with my girls but seems to only work after you've establish dominance in the herd
 
 When my pig displays a behavior like a nonbiting swipe I will look at her maybe stomp my foot, clap, and sternly say no then I will proceed to hide my face from her so she cannot make eye contact, will not talk to her, will not pet her at all. completely Shun the pig. If sitting on the couch I'll lift my legs and turn my back on her. You need to make it very apparent that you are ignoring your pig. 
