@@ -16,7 +16,7 @@ Best practice is to check your pig every day for abnormalities, rub all over the
 * Dirty, wet pig pens (clean out sleeping and living areas routinely) 
 * Overcrowding in a pig habitat
 * Non-sanitized wet feeding systems (especially when milk products are used)
-* Fesses in feeding area
+* Feces in feeding area
 * Sudden changes in diet
 * Sudden changes in weather
 * Infection from a pig not showing physical signs.
