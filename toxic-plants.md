@@ -114,7 +114,7 @@
 * ALMOND LEAVES AND SEEDS
 
 # INSOLUABLE OXALATES (Crystalline Acid)
-## Can cause pain and swelling of the mucus membranes of the mouth and throat, can cause vomiting and/or stomach pain.
+Can cause pain and swelling of the mucus membranes of the mouth and throat, can cause vomiting and/or stomach pain.
 
 * ARACEAE
 * BEGONIA
@@ -129,7 +129,8 @@
 * CHINESE EVERGREEN
 * ELEPHANT’S EAR
 
-# Photosensitivity (Can cause an adverse reaction to sun exposure. Rash or burn)
+# Photosensitivity
+Can cause an adverse reaction to sun exposure, rash, or burn.
 
 * PARSNIP TOPS
 * PARSLEY
