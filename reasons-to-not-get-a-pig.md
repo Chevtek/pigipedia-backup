@@ -10,7 +10,7 @@
 * If you live in an apartment.
 * If you live in a house that has no outside area to root and play.
 * If you are not prepared for your pig to possibly be over 200 pounds.
-* If you plan or a there is a chance you might move into an apartment. (very difficult to find landlords willing to have a pig)
+* If you plan or there is a chance you might move into an apartment. (very difficult to find landlords willing to have a pig)
 * If you are not willing to set aside at least $1000 for an emergency medical fund or have credit available or both. Pet insurance is sometimes an option. 
 * If you are not financially liquid enough to get your pig altered within a couple of months or when they are physically ready.
 * If you have a dog or dogs and are not willing to keep them separate.
