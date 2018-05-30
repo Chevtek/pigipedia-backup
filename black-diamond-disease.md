@@ -12,7 +12,7 @@ The disease will typically show signs within 72 hours of bacterium exposure. The
 
 Best practice is to check your pig every day for abnormalities, rub all over the body and feel for bumps, lumps or any abnormalities, check ears, eyes, hooves, legs, back etc. anything found abnormal call your veterinarian for advice and an appointment as soon as possible, time is of the essence if it is black diamond disease. Photos can be helpful if lesions are physically apparent for the vet. Please note all symptoms your pig is displaying for the vet before calling, this will help with diagnosis. Earlier detection, higher mortality rate. After detection and the lesions start to heal they will become crusty and scabbed, this is normal. You must keep these areas clean and dry to prevent a secondary infection. May apply a good antibacterial (Vetericyn) to help prevent future infection. Always check with your vet for the best practice for your situation.
 
-# Some of the know causes and contributing factors of Erysipelas
+# Some of the known causes and contributing factors of Erysipelas
 * Dirty, wet pig pens (clean out sleeping and living areas routinely) 
 * Overcrowding in a pig habitat
 * Non-sanitized wet feeding systems (especially when milk products are used)
