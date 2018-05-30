@@ -114,7 +114,7 @@
 * ALMOND LEAVES AND SEEDS
 
 # INSOLUABLE OXALATES (Crystalline Acid)
-Can cause pain and swelling of the mucus membranes of the mouth and throat, can cause vomiting and/or stomach pain.
+## Can cause pain and swelling of the mucus membranes of the mouth and throat, can cause vomiting and/or stomach pain.
 
 * ARACEAE
 * BEGONIA
