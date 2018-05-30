@@ -24,4 +24,4 @@ Best practice is to check your pig every day for abnormalities, rub all over the
 * Exposure to infected animals
 ---
 
-> Note: This is an excerpt from the forth coming book Pigs & Love ( a guide to raising mini pigs). It is not to be shared without permission of author.
+> Note: This is an excerpt from the forthcoming book Pigs & Love ( a guide to raising mini pigs). It is not to be shared without permission of author.
